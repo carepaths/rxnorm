@@ -1,7 +1,10 @@
 # RxNorm postgres setup
-Move all RRF files into the root directory
-as shown below
 
+## Download RxNorm
+Download the latest version of rxnorm from [here](https://www.nlm.nih.gov/research/umls/rxnorm/docs/rxnormfiles.html)
+
+Extract and move all RRF files into the root directory
+as shown below
 ```
 .
 ├── build-rxnorm.sh
